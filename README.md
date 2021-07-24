@@ -1,2 +1,3 @@
 # Kampusin
-homepage kampusin
+homepage dan user profile kampusin
+menggunakan bootstrap
